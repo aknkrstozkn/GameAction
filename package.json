@@ -7,16 +7,16 @@
   "description": "This package contains custom implementation of Action with a Helper",
   "repository": {
         "type": "git",
-        "url": "https://github.com/RotatelabDev/GameAction-Package.git"
+        "url": "https://github.com/aknkrstozkn/GameAction.git"
     },
   "dependencies": {
     "com.unity.services.core": "1.0.1"
   },
   "category": "Runtime",
   "author": {
-    "name": "Rotatelab",
-    "email": "info@rotatelab.com",
-    "url": "https://rotatelab.com/"
+    "name": "akinkursatozkan",
+    "email": "akinkursatozkan@gmail.com",
+    "url": "https://github.com/aknkrstozkn"
   },  
   "type": "tool"
 }
