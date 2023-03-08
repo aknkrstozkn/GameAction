@@ -1,0 +1,22 @@
+{
+  "name": "com.akinkursatozkan.game_action",
+  "displayName": "Game Action",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "unityRelease": "37f1",
+  "description": "This package contains custom implementation of Action with a Helper",
+  "repository": {
+        "type": "git",
+        "url": "https://github.com/RotatelabDev/GameAction-Package.git"
+    },
+  "dependencies": {
+    "com.unity.services.core": "1.0.1"
+  },
+  "category": "Runtime",
+  "author": {
+    "name": "Rotatelab",
+    "email": "info@rotatelab.com",
+    "url": "https://rotatelab.com/"
+  },  
+  "type": "tool"
+}
